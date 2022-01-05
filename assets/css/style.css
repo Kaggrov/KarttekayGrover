@@ -952,6 +952,10 @@ background-color: var(--text-color-light);
     .show-scroll{
         bottom: 5rem;
     }
+    .loader{
+        width:100vh;
+        height:100vh;
+    }
 
 }
 
